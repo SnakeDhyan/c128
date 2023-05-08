@@ -1,0 +1,61 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;	
+}
+  .div_speed
+  {
+  	float: left;
+  }
+  .div_speed_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #speed
+  {
+  	font-size: 23px;
+  	margin: 15px;
+    color: red;
+  }
+  .div_volume
+  {
+  	float: right;	
+  }
+  .div_volume_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #volume
+  {
+  	font-size: 23px;
+  	margin: 15px;
+    color: red;
+  }
+.play_button{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: inherit;
+  width: 130px;
+  font-size: 25px;
+  color: chartreuse;
+  border-width: 12px;
+  border-color: darkblue;
+}
+canvas
+{
+   border: 7px solid white;
+   border-radius: 20px;
+   box-shadow: tomato;
+   margin-top:100px ;
+}
